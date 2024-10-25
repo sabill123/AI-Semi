@@ -1,2 +1,2 @@
-# AI-Semi
-# AI-Semi
+# AI-Semiconductor
+# 망고부스트
